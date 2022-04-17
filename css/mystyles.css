@@ -1,0 +1,25 @@
+<style>
+footer{
+    background-color: ivory;
+}
+body{
+    background-color: ivory;
+    font-style: italic;
+}
+li{
+    font-size: 20px;    
+    font-style: italic;
+    font-weight: normal;
+    text-decoration: none;
+}
+.bold{
+    font-weight: bold;
+}
+.underline{
+    text-decoration: underline;
+}
+p{
+    font-style: normal;
+}
+
+</style>
